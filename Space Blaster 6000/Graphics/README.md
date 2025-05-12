@@ -6,7 +6,7 @@ Built with the Pygame library.
 - Pygame library
 
 # How to play
-- Run the game
+- Run the main.py file
 
 - The Space Blaster 6000 ship is under attack by the evil aliens of the galaxy.
 - And it's up to you to defeat them. 
