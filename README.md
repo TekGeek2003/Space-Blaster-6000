@@ -15,6 +15,7 @@ Command the Space Blaster 6000 with your arrow keys-left and right to dodge inco
 
 Elimiate the aliens with your secret weapon, the built in laser shooter by pressing the spacebar.
 
-Code to run the game
+Code to run the game:
+
 cd "/Users/techwiz2003/Desktop/Space Blaster 6000/Space Blaster 6000"
 python3 Graphics/main.py
