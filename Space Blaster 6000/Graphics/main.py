@@ -11,7 +11,7 @@ GREY = (29, 29, 27)
 YELLOW = (243, 216, 63)
 
 font = pygame.font.Font("Font/monogram.ttf", 40)
-level_surface = font.render("TekGeekGamez", False, YELLOW)
+level_surface = font.render("Game Dev Hero", False, YELLOW)
 game_over_surface = font.render("GAME OVER", False, YELLOW)
 score_text_surface = font.render("SCORE", False, YELLOW)
 highscore_text_surface = font.render("HIGH SCORE", False, YELLOW)
